@@ -25,7 +25,7 @@
 
 ### 🧐 About Me
 
-I am a **Software Engineer** specializing in **Natural Language Understanding (NLU)** and **Backend Architecture**. Currently, I own the Tamil NLU lifecycle for the national vehicle fleet at **Soundhound AI**. 
+I am a **Software Engineer** specializing in **Natural Language Understanding (NLU)** and **Backend Architecture**. 
 
 I am an **AI-Native Developer**, meaning I heavily leverage tools like Cursor, Copilot, and Gemini to drive rapid product iteration and optimize complex systems. My work spans from low-latency C++ backend modules to fine-tuning LLMs for privacy and security.
 
